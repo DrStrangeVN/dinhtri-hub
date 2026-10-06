@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Trung Tâm Thông Tin — 9 bản tin mỗi sáng</title>
+<meta name="description" content="Cổng tổng hợp 9 bản tin chuyên sâu: AI, chứng khoán, vĩ mô, vàng, bất động sản, crypto, startup, cơ hội kinh doanh và tin thế giới. Cập nhật 8:00 mỗi sáng.">
+<meta property="og:title" content="Trung Tâm Thông Tin — 9 bản tin mỗi sáng">
+<meta property="og:description" content="Mọi bản tin quan trọng, một nơi duy nhất. Cập nhật 8:00 hằng ngày.">
+<meta property="og:type" content="website">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%236366f1'/%3E%3Ctext x='32' y='42' font-family='sans-serif' font-size='28' font-weight='bold' fill='white' text-anchor='middle'%3ET%3C/text%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="bg" aria-hidden="true">
+  <span class="blob b1"></span><span class="blob b2"></span><span class="blob b3"></span>
+</div>
+
+<header class="nav">
+  <div class="nav-inner">
+    <a class="brand" href="#top"><span class="brand-mark">T</span><span class="brand-text">Trung Tâm <em>Thông Tin</em></span></a>
+    <nav class="nav-links">
+      <a href="#tin-noi-bat">Tin nổi bật</a>
+      <a href="#chuyen-muc">9 chuyên mục</a>
+    </nav>
+    <span class="nav-badge"><span class="dot"></span><span id="today-label">Hôm nay</span></span>
+  </div>
+</header>
+
+<main id="top">
+  <section class="hero">
+    <p class="eyebrow">Cập nhật 8:00 mỗi sáng · Tiếng Việt</p>
+    <h1>Mọi bản tin quan trọng,<br><span class="grad">một nơi duy nhất.</span></h1>
+    <p class="lede">Cổng tổng hợp 9 bản tin chuyên sâu — từ AI, chứng khoán, vĩ mô đến vàng, bất động sản, crypto và khởi nghiệp — cùng điểm tin nổi bật mỗi buổi sáng.</p>
+    <div class="stats">
+      <div class="stat"><strong>9</strong><span>chuyên mục</span></div>
+      <div class="stat"><strong>8:00</strong><span>cập nhật hằng ngày</span></div>
+      <div class="stat"><strong>100%</strong><span>tiếng Việt</span></div>
+    </div>
+  </section>
+
+  <section id="tin-noi-bat" class="section">
+    <div class="section-head">
+      <div>
+        <p class="kicker">Điểm tin sáng</p>
+        <h2>Tin nổi bật</h2>
+      </div>
+      <span class="updated" id="featured-updated">Đang tải…</span>
+    </div>
+    <div class="featured-grid" id="featured-grid"></div>
+  </section>
+
+  <section id="chuyen-muc" class="section">
+    <div class="section-head">
+      <div>
+        <p class="kicker">Khám phá</p>
+        <h2>9 chuyên mục</h2>
+      </div>
+    </div>
+    <div class="cards-grid" id="cards-grid"></div>
+  </section>
+</main>
+
+<footer class="footer">
+  <p><strong>Trung Tâm Thông Tin</strong> — tổng hợp các bản tin chuyên sâu, cập nhật 8:00 hằng ngày.</p>
+  <p class="muted">Nội dung tổng hợp từ các nguồn công khai, chỉ mang tính tham khảo.</p>
+</footer>
+
+<script src="assets/app.js"></script>
+</body>
+</html>
