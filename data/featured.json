@@ -1,27 +1,283 @@
 {
-  "updated_at": "2026-10-10T09:00:00+07:00",
+  "updated_at": "2026-10-10T09:30:00+07:00",
   "items": [
+    {
+      "source": "World Morning Brief",
+      "source_url": "https://muse.ai/s/world-morning-brief-xdxn6dxzg3xvxwxk9",
+      "title": "Điện đàm Trump–Putin: Nga cung cấp 300.000 tấn diesel cho Mỹ ngay",
+      "excerpt": "Tâm điểm địa chính trị 24h: cuộc điện đàm Trump–Putin đạt thỏa thuận cung cấp 300.000 tấn diesel ngay lập tức, trong lúc Trump tuyên bố không tấn công Iran trước bầu cử giữa kỳ 3/11.",
+      "date": "10/10/2026",
+      "color": "#64748b"
+    },
+    {
+      "source": "World Morning Brief",
+      "source_url": "https://muse.ai/s/world-morning-brief-xdxn6dxzg3xvxwxk9",
+      "title": "Nobel Hòa bình cho Navi Pillay, Mỹ trừng phạt ICC ngay sau đó",
+      "excerpt": "Giải Nobel Hòa bình 2026 trao cho Navi Pillay; Mỹ đáp trả bằng lệnh trừng phạt nhằm vào Tòa án Hình sự Quốc tế ICC.",
+      "date": "10/10/2026",
+      "color": "#64748b"
+    },
+    {
+      "source": "World Morning Brief",
+      "source_url": "https://muse.ai/s/world-morning-brief-xdxn6dxzg3xvxwxk9",
+      "title": "Dầu biến động: Brent từ ~105 về 103,4 USD/thùng",
+      "excerpt": "Giá dầu chao đảo sau vụ tàu chở dầu bị tấn công bằng mìn gần eo biển Hormuz và tuyên bố hạ nhiệt của Trump về Iran.",
+      "date": "10/10/2026",
+      "color": "#64748b"
+    },
+    {
+      "source": "World Morning Brief",
+      "source_url": "https://muse.ai/s/world-morning-brief-xdxn6dxzg3xvxwxk9",
+      "title": "OpenAI doanh thu ~50 tỷ USD gây selloff chip; SpaceX mua phổ 800MHz ~8 tỷ USD",
+      "excerpt": "Doanh thu OpenAI ~50 tỷ USD châm ngòi đợt bán tháo cổ phiếu chip; SpaceX chi ~8 tỷ USD mua phổ tần 800MHz.",
+      "date": "10/10/2026",
+      "color": "#64748b"
+    },
+    {
+      "source": "Gold Report VN",
+      "source_url": "https://muse.ai/s/gold-report-vn-xfxf6dxz8xlpnsz",
+      "title": "Vàng thế giới ~4.194 USD/oz (+1,5%), cao nhất 1 tuần",
+      "excerpt": "Vàng thế giới tăng ~63 USD trong 24 giờ nhờ USD hạ nhiệt và lợi suất trái phiếu Mỹ 10 năm giảm về ~5,25%.",
+      "date": "10/10/2026",
+      "color": "#ca8a04"
+    },
+    {
+      "source": "Gold Report VN",
+      "source_url": "https://muse.ai/s/gold-report-vn-xfxf6dxz8xlpnsz",
+      "title": "SJC 141,8/144,8 triệu đồng/lượng (+1,8 triệu)",
+      "excerpt": "Vàng miếng SJC tăng 1,8 triệu đồng/lượng cả hai chiều so với 8/10; vàng nhẫn SJC 141,3–144,3 triệu; DOJI và PNJ đồng giá SJC.",
+      "date": "10/10/2026",
+      "color": "#ca8a04"
+    },
+    {
+      "source": "Gold Report VN",
+      "source_url": "https://muse.ai/s/gold-report-vn-xfxf6dxz8xlpnsz",
+      "title": "Chênh lệch trong–ngoài nước ~13 triệu đồng/lượng",
+      "excerpt": "Giá vàng trong nước neo cao hơn thế giới khoảng 13 triệu đồng mỗi lượng (quy đổi ~131,8 triệu, chưa thuế phí).",
+      "date": "10/10/2026",
+      "color": "#ca8a04"
+    },
+    {
+      "source": "Gold Report VN",
+      "source_url": "https://muse.ai/s/gold-report-vn-xfxf6dxz8xlpnsz",
+      "title": "Fed: xác suất tăng lãi suất tháng 10 ~18–19%, tháng 12 ~80–82%",
+      "excerpt": "Biên bản Fed cho thấy đa số quan chức vẫn thấy cần thêm một lần tăng lãi suất năm nay; CPI tuần tới là mốc then chốt với giá vàng.",
+      "date": "10/10/2026",
+      "color": "#ca8a04"
+    },
+    {
+      "source": "Crypto Deep Dive",
+      "source_url": "https://muse.ai/s/crypto-deep-dive-bh6dxzftxq8ot",
+      "title": "BTC ~82.570 USD (+0,9%), ETH ~2.482 USD (+0,4%)",
+      "excerpt": "Thị trường crypto hồi nhẹ sau nhịp điều chỉnh; tổng vốn hóa quanh 2,7 nghìn tỷ USD.",
+      "date": "10/10/2026",
+      "color": "#f97316"
+    },
+    {
+      "source": "Crypto Deep Dive",
+      "source_url": "https://muse.ai/s/crypto-deep-dive-bh6dxzftxq8ot",
+      "title": "ETF spot rút ròng ~986 triệu USD từ đầu tháng",
+      "excerpt": "Dòng tiền ETF crypto Mỹ tiếp tục rút ròng mạnh trong tháng 10, gây áp lực lên giá BTC và ETH.",
+      "date": "10/10/2026",
+      "color": "#f97316"
+    },
+    {
+      "source": "Crypto Deep Dive",
+      "source_url": "https://muse.ai/s/crypto-deep-dive-bh6dxzftxq8ot",
+      "title": "ESMA siết stablecoin theo khung MiCA",
+      "excerpt": "Cơ quan chứng khoán châu Âu tăng cường thực thi quy định stablecoin trong khuôn khổ MiCA, tác động đến các nhà phát hành lớn.",
+      "date": "10/10/2026",
+      "color": "#f97316"
+    },
+    {
+      "source": "Crypto Deep Dive",
+      "source_url": "https://muse.ai/s/crypto-deep-dive-bh6dxzftxq8ot",
+      "title": "CFTC đề xuất Regulation CTX & CAM; SEC siết custody",
+      "excerpt": "CFTC đề xuất quy định mới cho giao dịch crypto đòn bẩy, SEC siết quy định lưu ký tài sản số tại Mỹ.",
+      "date": "10/10/2026",
+      "color": "#f97316"
+    },
+    {
+      "source": "Business Opportunity Hub",
+      "source_url": "https://muse.ai/s/business-opportunity-hub-ip6dwfxi4hxkg",
+      "title": "Case of the Day: PNJ tăng trần sau kiểm định AIGS",
+      "excerpt": "PNJ tăng trần +6,85% lên 19.500 đ/cp sau khi công bố 100% mẫu kim cương kiểm định độc lập là thiên nhiên — bài học xử lý khủng hoảng niềm tin.",
+      "date": "10/10/2026",
+      "color": "#f59e0b"
+    },
+    {
+      "source": "Business Opportunity Hub",
+      "source_url": "https://muse.ai/s/business-opportunity-hub-ip6dwfxi4hxkg",
+      "title": "Cơ hội mới: conversational commerce done-for-you (score 94, SỚM)",
+      "excerpt": "Dịch vụ triển khai thương mại hội thoại trọn gói cho nhà bán lẻ — cơ hội được chấm 94 điểm, cửa sổ gia nhập còn SỚM.",
+      "date": "10/10/2026",
+      "color": "#f59e0b"
+    },
+    {
+      "source": "Business Opportunity Hub",
+      "source_url": "https://muse.ai/s/business-opportunity-hub-ip6dwfxi4hxkg",
+      "title": "Cơ hội mới: cross-border commerce launch desk",
+      "excerpt": "Bàn tư vấn triển khai bán hàng xuyên biên giới cho SME Việt — đón sóng xuất khẩu và TMĐT toàn cầu.",
+      "date": "10/10/2026",
+      "color": "#f59e0b"
+    },
+    {
+      "source": "Business Opportunity Hub",
+      "source_url": "https://muse.ai/s/business-opportunity-hub-ip6dwfxi4hxkg",
+      "title": "Top 10 radar chấm lại: Agentic AI dẫn dắt TMĐT Việt Nam",
+      "excerpt": "Agentic AI là động lực lớn nhất của TMĐT Việt Nam theo khảo sát 15.000 nhà bán; chính sách SME QĐ 1922 và gói chuyển đổi số TP.HCM mở thêm dư địa.",
+      "date": "10/10/2026",
+      "color": "#f59e0b"
+    },
+    {
+      "source": "Startup Funding VN",
+      "source_url": "https://muse.ai/s/startup-funding-vn-xfl6dxzadxdxukxl",
+      "title": "Manus (Singapore) gọi hơn 500 triệu USD từ Boyu và IDG",
+      "excerpt": "Startup AI agent Manus huy động vòng đầu tiên sau khi thương vụ bị Meta mua lại đổ vỡ — một trong những vòng gọi vốn AI lớn nhất Đông Nam Á.",
+      "date": "10/10/2026",
+      "color": "#ec4899"
+    },
+    {
+      "source": "Startup Funding VN",
+      "source_url": "https://muse.ai/s/startup-funding-vn-xfl6dxzadxdxukxl",
+      "title": "Arena (Mỹ) 200 triệu USD Series B, định giá 3,1 tỷ USD",
+      "excerpt": "Nền tảng đánh giá AI Arena huy động 200 triệu USD vòng Series B với định giá 3,1 tỷ USD.",
+      "date": "10/10/2026",
+      "color": "#ec4899"
+    },
+    {
+      "source": "Startup Funding VN",
+      "source_url": "https://muse.ai/s/startup-funding-vn-xfl6dxzadxdxukxl",
+      "title": "KONST (Đài Loan) 30 triệu USD Series B mở rộng trung tâm dữ liệu AI",
+      "excerpt": "KONST huy động 30 triệu USD để mở rộng hạ tầng trung tâm dữ liệu AI tại châu Á.",
+      "date": "10/10/2026",
+      "color": "#ec4899"
+    },
+    {
+      "source": "Startup Funding VN",
+      "source_url": "https://muse.ai/s/startup-funding-vn-xfl6dxzadxdxukxl",
+      "title": "AVES tăng vốn điều lệ nội bộ 30→42 tỷ đồng",
+      "excerpt": "Việt Nam chưa có vòng gọi vốn mới công bố; AVES (xe điện) tăng vốn điều lệ nội bộ lên 42 tỷ đồng.",
+      "date": "10/10/2026",
+      "color": "#ec4899"
+    },
+    {
+      "source": "VN Real Estate",
+      "source_url": "https://muse.ai/s/vn-real-estate-xdxr6dxzcgqdxrv",
+      "title": "Căn hộ sơ cấp Hà Nội ~121 triệu/m² (Q2/2026)",
+      "excerpt": "Giá căn hộ mới tại Hà Nội bình quân ~121 triệu/m²; TP.HCM khu trung tâm ~103 triệu/m²; Đà Nẵng ~73,5 triệu/m².",
+      "date": "10/10/2026",
+      "color": "#10b981"
+    },
+    {
+      "source": "VN Real Estate",
+      "source_url": "https://muse.ai/s/vn-real-estate-xdxr6dxzcgqdxrv",
+      "title": "NQ 21-NQ/TW: thời hạn chung cư theo tuổi thọ thiết kế",
+      "excerpt": "Thời hạn sử dụng căn hộ theo tuổi thọ thiết kế công trình (50–100 năm); hết hạn không đồng nghĩa mất quyền sở hữu.",
+      "date": "10/10/2026",
+      "color": "#10b981"
+    },
+    {
+      "source": "VN Real Estate",
+      "source_url": "https://muse.ai/s/vn-real-estate-xdxr6dxzcgqdxrv",
+      "title": "VREC–HREC: 3 nút thắt — hấp thụ mở bán mới chỉ ~50%",
+      "excerpt": "Chi phí vốn, lệch giá–thu nhập và quy định thời hạn chung cư là 3 nút thắt; tỷ lệ hấp thụ đợt mở đầu giảm từ 80–90% còn ~50%.",
+      "date": "10/10/2026",
+      "color": "#10b981"
+    },
+    {
+      "source": "VN Real Estate",
+      "source_url": "https://muse.ai/s/vn-real-estate-xdxr6dxzcgqdxrv",
+      "title": "BĐS công nghiệp phục hồi: hấp thụ ròng miền Bắc 217 ha",
+      "excerpt": "Quý 2/2026: hấp thụ ròng miền Bắc ~217 ha (cao nhất từ Q1/2024), miền Nam ~67 ha; giá thuê 143–185 USD/m²/chu kỳ.",
+      "date": "10/10/2026",
+      "color": "#10b981"
+    },
+    {
+      "source": "Macro & Market Intelligence",
+      "source_url": "https://muse.ai/s/macro-market-intelligence-qxj6dvjphp84",
+      "title": "VN-Index 1.735,09 điểm (-0,22%), phiên giảm thứ 3 liên tiếp",
+      "excerpt": "Thanh khoản HOSE ~27.543 tỷ đồng vượt 1 tỷ USD nhưng gần như toàn bộ tăng thêm là giao dịch thỏa thuận MCH ~9.641 tỷ.",
+      "date": "10/10/2026",
+      "color": "#8b5cf6"
+    },
+    {
+      "source": "Macro & Market Intelligence",
+      "source_url": "https://muse.ai/s/macro-market-intelligence-qxj6dvjphp84",
+      "title": "MCH thỏa thuận kỷ lục >9.641 tỷ đồng",
+      "excerpt": "Hơn 64,2 triệu cổ phiếu Masan Consumer (~4,9% vốn điều lệ) đổi chủ qua thỏa thuận giá 150.000 đ/cp; bên bán là khối ngoại.",
+      "date": "10/10/2026",
+      "color": "#8b5cf6"
+    },
+    {
+      "source": "Macro & Market Intelligence",
+      "source_url": "https://muse.ai/s/macro-market-intelligence-qxj6dvjphp84",
+      "title": "Khối ngoại bán ròng phiên thứ 13 liên tiếp",
+      "excerpt": "Bán ròng ~9.734 tỷ đồng toàn 3 sàn (chủ yếu thỏa thuận MCH); loại trừ thỏa thuận chỉ bán ròng khớp lệnh ~185 tỷ; tự doanh mua ròng ~265 tỷ.",
+      "date": "10/10/2026",
+      "color": "#8b5cf6"
+    },
+    {
+      "source": "Macro & Market Intelligence",
+      "source_url": "https://muse.ai/s/macro-market-intelligence-qxj6dvjphp84",
+      "title": "Tỷ giá trung tâm 25.629 đ/USD; lãi suất qua đêm về 0,72%",
+      "excerpt": "NHNN giữ nguyên lãi suất điều hành, hút ròng ~39.129 tỷ đồng đầu tháng; tín dụng toàn hệ thống +11,59% từ đầu năm.",
+      "date": "10/10/2026",
+      "color": "#8b5cf6"
+    },
     {
       "source": "AI News Report",
       "source_url": "https://muse.ai/s/ai-news-report-xjj6dvbc8gxeb",
-      "title": "AI mở mã nguồn, hợp tác an ninh và tái định giá hạ tầng",
-      "excerpt": "Reflection công bố mô hình mở Beam; các phòng thí nghiệm AI lớn phối hợp phòng thủ an ninh mạng; Amazon cân nhắc ~8 tỷ USD SPV hạ tầng AI; GitHub Trending nghiêng mạnh về AI agent có bộ nhớ, công cụ và workflow.",
-      "date": "06/10/2026",
+      "title": "OpenAI triển khai GPT-6 cho toàn bộ người dùng",
+      "excerpt": "GPT-6 được mở cho cả người dùng miễn phí kèm giao diện 'Intelligent UI' mới (08–09/10).",
+      "date": "09/10/2026",
       "color": "#6366f1"
     },
     {
       "source": "AI News Report",
       "source_url": "https://muse.ai/s/ai-news-report-xjj6dvbc8gxeb",
-      "title": "Amazon cân nhắc SPV hạ tầng AI ~8 tỷ USD",
-      "excerpt": "Số liệu nổi bật: ~8 tỷ USD SPV hạ tầng AI Amazon; Beam 501B/23B tham số/active tasks; Armadin huy động Series B 255,5 triệu USD.",
-      "date": "06/10/2026",
+      "title": "Anthropic ra mắt Claude Haiku 5.5, rẻ hơn ~75%",
+      "excerpt": "Claude Haiku 5.5 có giá chỉ $0,10/$0,50 mỗi triệu token với context 1 triệu token (08/10).",
+      "date": "09/10/2026",
+      "color": "#6366f1"
+    },
+    {
+      "source": "AI News Report",
+      "source_url": "https://muse.ai/s/ai-news-report-xjj6dvbc8gxeb",
+      "title": "DeepSeek sắp gọi ~12 tỷ USD, định giá ~75 tỷ USD",
+      "excerpt": "DeepSeek được cho là sắp huy động khoảng 12 tỷ USD do Tencent và CATL dẫn dắt, IPO dự kiến đầu 2027 (chưa được công ty xác nhận).",
+      "date": "09/10/2026",
+      "color": "#6366f1"
+    },
+    {
+      "source": "AI News Report",
+      "source_url": "https://muse.ai/s/ai-news-report-xjj6dvbc8gxeb",
+      "title": "Google Cloud ra mắt 'Gemini agent' văn phòng",
+      "excerpt": "Agent văn phòng duy nhất chạy trong Workspace/M365/Slack, xây dựng trên Gemini và Claude (08/10).",
+      "date": "09/10/2026",
       "color": "#6366f1"
     },
     {
       "source": "VNindex Report",
       "source_url": "https://muse.ai/s/vnindex-report-xih6drxxxexmbxexo",
-      "title": "Kiểm định vùng đỡ trong nhịp xoay trụ",
-      "excerpt": "VN-Index giảm phiên thứ hai liên tiếp, đóng cửa tại 1.738,97 điểm (-0,77%) sau khi có lúc mất hơn 27 điểm; dòng tiền rút khỏi ngân hàng, chứng khoán và bất động sản, trong khi dầu khí, thủy sản và phân bón giữ vai trò đối trọng; bối cảnh quốc tế tiếp tục bất lợi.",
+      "title": "PNJ tăng trần +6,85% sau kiểm định AIGS",
+      "excerpt": "PNJ lên 19.500 đ/cp, khớp >7,1 triệu cp, sau khi 100% mẫu kim cương kiểm định độc lập được xác nhận là thiên nhiên — chấm dứt chuỗi 13 phiên giảm.",
+      "date": "09/10/2026",
+      "color": "#0ea5e9"
+    },
+    {
+      "source": "VNindex Report",
+      "source_url": "https://muse.ai/s/vnindex-report-xih6drxxxexmbxexo",
+      "title": "NVL tăng trần +6,83% sau LNST 9 tháng vượt kế hoạch",
+      "excerpt": "Novaland công bố lợi nhuận sau thuế 9 tháng >2.800 tỷ đồng, vượt ~1,5 lần kế hoạch năm; cổ phiếu được khối ngoại mua ròng ~78 tỷ.",
+      "date": "09/10/2026",
+      "color": "#0ea5e9"
+    },
+    {
+      "source": "VNindex Report",
+      "source_url": "https://muse.ai/s/vnindex-report-xih6drxxxexmbxexo",
+      "title": "VN-Index kiểm định vùng đỡ trong nhịp xoay trụ",
+      "excerpt": "Chỉ số giảm phiên thứ hai liên tiếp về 1.738,97 điểm (-0,77%); dòng tiền rút khỏi ngân hàng–chứng khoán–BĐS, dầu khí và thủy sản giữ vai trò đối trọng.",
       "date": "09/10/2026",
       "color": "#0ea5e9"
     },
@@ -29,121 +285,9 @@
       "source": "VNindex Report",
       "source_url": "https://muse.ai/s/vnindex-report-xih6drxxxexmbxexo",
       "title": "Khối ngoại bán ròng ~446–447 tỷ đồng",
-      "excerpt": "Khối ngoại toàn thị trường bán ròng ~446–447 tỷ đồng; VN30-Index mất 17,2 điểm (-0,91%) còn 1.877,00 điểm; thanh khoản 3 sàn ~17.291 tỷ đồng, riêng HOSE tăng khoảng 5% so với phiên trước.",
+      "excerpt": "Khối ngoại toàn thị trường bán ròng ~446–447 tỷ đồng; VN30-Index mất 17,2 điểm (-0,91%) còn 1.877 điểm.",
       "date": "09/10/2026",
       "color": "#0ea5e9"
-    },
-    {
-      "source": "Macro & Market Intelligence",
-      "source_url": "https://muse.ai/s/macro-market-intelligence-qxj6dvjphp84",
-      "title": "Giám sát Vĩ mô Việt Nam & Toàn cầu",
-      "excerpt": "Biên bản FOMC giữ thông điệp diều hâu, lợi suất Mỹ 10 năm chạm đỉnh 24 năm và dầu duy trì quanh 100 USD/thùng; Việt Nam vẫn có nền tảng vĩ mô vững nhưng thị trường chịu áp lực từ thanh khoản yếu và khối ngoại bán ròng lớn.",
-      "date": "08/10/2026",
-      "color": "#8b5cf6"
-    },
-    {
-      "source": "Macro & Market Intelligence",
-      "source_url": "https://muse.ai/s/macro-market-intelligence-qxj6dvjphp84",
-      "title": "Số liệu sáng 08/10",
-      "excerpt": "VN-Index 1.753,39 (-0,32%), S&P 500 7.801,77 (-0,22%), lợi suất Mỹ 10 năm 5,276% (đỉnh 18 tháng), DXY 102,23 (+0,30%), USD/VND 26.170, Brent 100,20 USD (-0,40%), vàng giao ngay 4.106–4.127 USD.",
-      "date": "08/10/2026",
-      "color": "#8b5cf6"
-    },
-    {
-      "source": "Business Opportunity Hub",
-      "source_url": "https://muse.ai/s/business-opportunity-hub-ip6dwfxi4hxkg",
-      "title": "Tuần tra Radar: 5 tín hiệu cơ hội mới",
-      "excerpt": "Vốn AI đổ vào robotics; các trường ĐH tự chủ tuyển sinh; nông nghiệp công nghệ cao (cảm biến, AI cảnh báo) trong xu hướng carbon thấp; du lịch xanh thu hút nhà đầu tư.",
-      "date": "09/10/2026",
-      "color": "#f59e0b"
-    },
-    {
-      "source": "Business Opportunity Hub",
-      "source_url": "https://muse.ai/s/business-opportunity-hub-ip6dwfxi4hxkg",
-      "title": "5 ngách phụ trợ nhà máy FDI 2026",
-      "excerpt": "Dịch vụ phụ trợ khu công nghiệp: suất ăn công nghiệp (~25K suất/ngày, margin 15–20%), dịch vụ sửa chữa – bảo trì thiết bị; giải pháp phần mềm quản lý nhà máy.",
-      "date": "09/10/2026",
-      "color": "#f59e0b"
-    },
-    {
-      "source": "Gold Report VN",
-      "source_url": "https://muse.ai/s/gold-report-vn-xfxf6dxz8xlpnsz",
-      "title": "Vàng bật tăng sau cú giảm mạnh: rủi ro tăng lên vùng 4.200 USD hay bị kìm hãm bởi sức mạnh đồng USD?",
-      "excerpt": "Giá vàng bật tăng sau cú giảm mạnh, tâm điểm tập trung vào vùng 4.200 USD.",
-      "date": "09/10/2026",
-      "color": "#ca8a04"
-    },
-    {
-      "source": "Gold Report VN",
-      "source_url": "https://muse.ai/s/gold-report-vn-xfxf6dxz8xlpnsz",
-      "title": "Vàng miếng SJC trong nước tăng đồng loạt",
-      "excerpt": "Vàng miếng SJC 143,5 triệu đồng/lượng, vàng nhẫn 145,6 triệu đồng/lượng, với kỳ vọng giá tiếp tục tăng và các khuyến nghị từ chuyên gia.",
-      "date": "09/10/2026",
-      "color": "#ca8a04"
-    },
-    {
-      "source": "VN Real Estate",
-      "source_url": "https://muse.ai/s/vn-real-estate-xdxr6dxzcgqdxrv",
-      "title": "Thị trường bước vào pha chọn lọc",
-      "excerpt": "Nguồn cung sơ cấp quay lại nhưng sức hấp thụ chậm, giá sơ cấp neo cao trong khi thị trường thứ cấp phân hóa; quý II/2026, thị trường nhà ở TP.HCM và Hà Nội đã hấp thụ 15.500 căn hộ (~75% nguồn cung).",
-      "date": "09/10/2026",
-      "color": "#10b981"
-    },
-    {
-      "source": "VN Real Estate",
-      "source_url": "https://muse.ai/s/vn-real-estate-xdxr6dxzcgqdxrv",
-      "title": "Giá thứ cấp Hà Nội giảm lần đầu từ cuối 2022",
-      "excerpt": "Giá căn hộ thứ cấp Hà Nội giảm ~3% theo quý về ~60 triệu đồng/m² — lần giảm đầu tiên kể từ cuối 2022, tín hiệu tâm lý người mua suy yếu.",
-      "date": "09/10/2026",
-      "color": "#10b981"
-    },
-    {
-      "source": "Crypto Deep Dive",
-      "source_url": "https://muse.ai/s/crypto-deep-dive-bh6dxzftxq8ot",
-      "title": "BTC giảm dưới 90K USD",
-      "excerpt": "BTC giảm 3,8% xuống 89.000 USD khi chỉ số CPI công bố cao hơn dự đoán; ETH giảm mạnh xuống 2.600 USD.",
-      "date": "10/10/2026",
-      "color": "#f97316"
-    },
-    {
-      "source": "Crypto Deep Dive",
-      "source_url": "https://muse.ai/s/crypto-deep-dive-bh6dxzftxq8ot",
-      "title": "ETF spot Bitcoin tiếp tục mất 300 triệu USD",
-      "excerpt": "ETF spot Bitcoin tại Mỹ chứng kiến dòng tiền rút ra 300 triệu USD trong ngày; nhà đầu tư chốt lời sau cú tăng gần 95% từ đầu năm.",
-      "date": "10/10/2026",
-      "color": "#f97316"
-    },
-    {
-      "source": "Startup Funding VN",
-      "source_url": "https://muse.ai/s/startup-funding-vn-xfl6dxzadxdxukxl",
-      "title": "Ít thương vụ hơn, quy mô lớn hơn",
-      "excerpt": "Vốn công nghệ Đông Nam Á đạt 13,5 tỷ USD trong 9 tháng 2026 (+176% so với cùng kỳ) nhưng tập trung cao: 3 thương vụ tỷ USD chiếm 54% và 94% chảy vào Singapore.",
-      "date": "09/10/2026",
-      "color": "#ec4899"
-    },
-    {
-      "source": "Startup Funding VN",
-      "source_url": "https://muse.ai/s/startup-funding-vn-xfl6dxzadxdxukxl",
-      "title": "MoMo cân nhắc nhà đầu tư mới",
-      "excerpt": "MoMo được cho là đang xem xét nhà đầu tư mới với định giá có thể trên 2 tỷ USD (Reuters, chưa được xác nhận).",
-      "date": "09/10/2026",
-      "color": "#ec4899"
-    },
-    {
-      "source": "World Morning Brief",
-      "source_url": "https://muse.ai/s/world-morning-brief-xdxn6dxzg3xvxwxk9",
-      "title": "Flávio Bolsonaro thắng vòng một bầu cử Brazil",
-      "excerpt": "Con trai cựu tổng thống Jair Bolsonaro dẫn đương kim tổng thống Lula ở vòng một và bước vào vòng hai bầu cử Brazil.",
-      "date": "09/10/2026",
-      "color": "#64748b"
-    },
-    {
-      "source": "World Morning Brief",
-      "source_url": "https://muse.ai/s/world-morning-brief-xdxn6dxzg3xvxwxk9",
-      "title": "Nasdaq lập kỷ lục mới nhờ làn sóng AI",
-      "excerpt": "Nasdaq tăng 1,05% lên 27.477,31 điểm nhờ làn sóng AI; S&P 500 đạt 7.773,95, gần đỉnh lịch sử.",
-      "date": "09/10/2026",
-      "color": "#64748b"
     }
   ]
 }
